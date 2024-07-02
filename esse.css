@@ -1,0 +1,43 @@
+body{
+    background-color: #006caa96;
+}
+h1{
+    color:  #f3f3f3;
+    font-size: 90px;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-family: "Oi", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2{
+    color:#5b00a588;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+p1{
+ color: #000000 ;
+ text-align:right;
+ font-size: larger;
+ font-family: 'Courier New', Courier, monospace;
+}
+p2{
+    color:  #000000 ;
+ text-align:right;
+font-size: larger;
+font-family: 'Courier New', Courier, monospace;
+}
+p3{
+    color:  #000000 ;
+ text-align:right;
+ font-size: larger;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+img{
+    position:relative;
+    left: 25%;
+    
+    height: 500px ;
+}
